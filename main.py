@@ -3,7 +3,7 @@ from database import entries, get_entries, add_entry
 menu = """Please select:
 1, Add an Entry
 2, View All Entries
-3, Exit
+3, Exit..
 
 Your Selection is:
 """
